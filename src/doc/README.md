@@ -10,11 +10,11 @@ The [Bill of Materials (BOM)](https://maven.apache.org/guides/introduction/intro
 for the _fmi-avi-messageconverter_ library artifacts providing compatible versions:
 
 * [fmi-avi-messageconverter](https://github.com/fmidev/fmi-avi-messageconverter)
-  ([v${fmi-avi-messageconverter.version}](https://github.com/fmidev/fmi-avi-messageconverter/releases/tag/fmi-avi-messageconverter-${fmi-avi-messageconverter.version}))
+  ([v${fmi-avi-messageconverter.version}](${fmi-avi-messageconverter.version-url}))
 * [fmi-avi-messageconverter-iwxxm](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm)
-  ([v${fmi-avi-messageconverter-iwxxm.version}](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm/releases/tag/fmi-avi-messageconverter-iwxxm-${fmi-avi-messageconverter-iwxxm.version}))
+  ([v${fmi-avi-messageconverter-iwxxm.version}](${fmi-avi-messageconverter-iwxxm.version-url}))
 * [fmi-avi-messageconverter-tac](https://github.com/fmidev/fmi-avi-messageconverter-tac)
-  ([v${fmi-avi-messageconverter-tac.version}](https://github.com/fmidev/fmi-avi-messageconverter-tac/releases/tag/fmi-avi-messageconverter-tac-${fmi-avi-messageconverter-tac.version}))
+  ([v${fmi-avi-messageconverter-tac.version}](${fmi-avi-messageconverter-tac.version-url}))
 
 ## Using the BOM
 
