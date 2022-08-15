@@ -14,7 +14,7 @@ for the _fmi-avi-messageconverter_ library artifacts providing compatible versio
 * [fmi-avi-messageconverter-iwxxm](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm)
   ([v4.1.1-SNAPSHOT](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm/tree/main))
 * [fmi-avi-messageconverter-tac](https://github.com/fmidev/fmi-avi-messageconverter-tac)
-  ([v5.1.1-SNAPSHOT](https://github.com/fmidev/fmi-avi-messageconverter-tac/tree/main))
+  ([v5.2.0-SNAPSHOT](https://github.com/fmidev/fmi-avi-messageconverter-tac/tree/main))
 
 ## Using the BOM
 
@@ -45,7 +45,7 @@ Import this bom in the `<dependencyManagement>` section of your pom.xml:
     <dependency>
       <groupId>fi.fmi.avi.converter</groupId>
       <artifactId>fmi-avi-messageconverter-bom</artifactId>
-      <version>1.1.1-SNAPSHOT</version>
+      <version>1.2.0-SNAPSHOT</version>
       <type>pom</type>
       <scope>import</scope>
     </dependency>
