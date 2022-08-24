@@ -10,11 +10,11 @@ The [Bill of Materials (BOM)](https://maven.apache.org/guides/introduction/intro
 for the _fmi-avi-messageconverter_ library artifacts providing compatible versions:
 
 * [fmi-avi-messageconverter](https://github.com/fmidev/fmi-avi-messageconverter)
-  ([v6.2.0-SNAPSHOT](https://github.com/fmidev/fmi-avi-messageconverter/tree/main))
+  ([v6.2.0](${fmi-avi-messageconverter.version-url}))
 * [fmi-avi-messageconverter-iwxxm](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm)
-  ([v4.1.1-SNAPSHOT](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm/tree/main))
+  ([v4.2.0](${fmi-avi-messageconverter-iwxxm.version-url}))
 * [fmi-avi-messageconverter-tac](https://github.com/fmidev/fmi-avi-messageconverter-tac)
-  ([v5.2.0-SNAPSHOT](https://github.com/fmidev/fmi-avi-messageconverter-tac/tree/main))
+  ([v5.2.0](${fmi-avi-messageconverter-tac.version-url}))
 
 ## Using the BOM
 
@@ -45,7 +45,7 @@ Import this bom in the `<dependencyManagement>` section of your pom.xml:
     <dependency>
       <groupId>fi.fmi.avi.converter</groupId>
       <artifactId>fmi-avi-messageconverter-bom</artifactId>
-      <version>1.2.0-SNAPSHOT</version>
+      <version>1.2.0</version>
       <type>pom</type>
       <scope>import</scope>
     </dependency>
