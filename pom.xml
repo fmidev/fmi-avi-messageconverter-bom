@@ -60,7 +60,7 @@
   </scm>
 
   <properties>
-    <fmi-avi-messageconverter.version>6.1.1-SNAPSHOT</fmi-avi-messageconverter.version>
+    <fmi-avi-messageconverter.version>6.2.0-SNAPSHOT</fmi-avi-messageconverter.version>
     <fmi-avi-messageconverter-iwxxm.version>4.1.1-SNAPSHOT</fmi-avi-messageconverter-iwxxm.version>
     <fmi-avi-messageconverter-tac.version>5.2.0-SNAPSHOT</fmi-avi-messageconverter-tac.version>
 
