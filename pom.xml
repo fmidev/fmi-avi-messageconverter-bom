@@ -60,15 +60,21 @@
   </scm>
 
   <properties>
-    <fmi-avi-messageconverter.version>6.2.0-SNAPSHOT</fmi-avi-messageconverter.version>
-    <fmi-avi-messageconverter-iwxxm.version>4.1.1-SNAPSHOT</fmi-avi-messageconverter-iwxxm.version>
-    <fmi-avi-messageconverter-tac.version>5.2.0-SNAPSHOT</fmi-avi-messageconverter-tac.version>
+    <fmi-avi-messageconverter.version>6.2.0</fmi-avi-messageconverter.version>
+    <fmi-avi-messageconverter-iwxxm.version>4.2.0</fmi-avi-messageconverter-iwxxm.version>
+    <fmi-avi-messageconverter-tac.version>5.2.0</fmi-avi-messageconverter-tac.version>
 
-    <fmi-avi-messageconverter.release-url>https://github.com/fmidev/fmi-avi-messageconverter/releases/tag/fmi-avi-messageconverter-${fmi-avi-messageconverter.version}</fmi-avi-messageconverter.release-url>
+    <fmi-avi-messageconverter.release-url>
+      https://github.com/fmidev/fmi-avi-messageconverter/releases/tag/fmi-avi-messageconverter-${fmi-avi-messageconverter.version}
+    </fmi-avi-messageconverter.release-url>
     <fmi-avi-messageconverter.snapshot-branch>main</fmi-avi-messageconverter.snapshot-branch>
-    <fmi-avi-messageconverter-iwxxm.release-url>https://github.com/fmidev/fmi-avi-messageconverter-iwxxm/releases/tag/fmi-avi-messageconverter-iwxxm-${fmi-avi-messageconverter-iwxxm.version}</fmi-avi-messageconverter-iwxxm.release-url>
+    <fmi-avi-messageconverter-iwxxm.release-url>
+      https://github.com/fmidev/fmi-avi-messageconverter-iwxxm/releases/tag/fmi-avi-messageconverter-iwxxm-${fmi-avi-messageconverter-iwxxm.version}
+    </fmi-avi-messageconverter-iwxxm.release-url>
     <fmi-avi-messageconverter-iwxxm.snapshot-branch>main</fmi-avi-messageconverter-iwxxm.snapshot-branch>
-    <fmi-avi-messageconverter-tac.release-url>https://github.com/fmidev/fmi-avi-messageconverter-tac/releases/tag/fmi-avi-messageconverter-tac-${fmi-avi-messageconverter-tac.version}</fmi-avi-messageconverter-tac.release-url>
+    <fmi-avi-messageconverter-tac.release-url>
+      https://github.com/fmidev/fmi-avi-messageconverter-tac/releases/tag/fmi-avi-messageconverter-tac-${fmi-avi-messageconverter-tac.version}
+    </fmi-avi-messageconverter-tac.release-url>
     <fmi-avi-messageconverter-tac.snapshot-branch>main</fmi-avi-messageconverter-tac.snapshot-branch>
     <doc.msg.generated>Generated - DO NOT EDIT! Instead, edit sources under src/doc directory.</doc.msg.generated>
   </properties>
