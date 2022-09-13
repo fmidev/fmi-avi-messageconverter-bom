@@ -1,7 +1,7 @@
 <!-- ${doc.msg.generated} -->
 <!--
   After editing the source file or changing pom.xml, run at project root:
-  mvn resources:copy-resources@readme
+  mvn validate resources:copy-resources@readme
 -->
 
 # fmi-avi-messageconverter-bom

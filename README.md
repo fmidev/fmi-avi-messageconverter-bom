@@ -1,7 +1,7 @@
 <!-- Generated - DO NOT EDIT! Instead, edit sources under src/doc directory. -->
 <!--
   After editing the source file or changing pom.xml, run at project root:
-  mvn resources:copy-resources@readme
+  mvn validate resources:copy-resources@readme
 -->
 
 # fmi-avi-messageconverter-bom
@@ -10,11 +10,11 @@ The [Bill of Materials (BOM)](https://maven.apache.org/guides/introduction/intro
 for the _fmi-avi-messageconverter_ library artifacts providing compatible versions:
 
 * [fmi-avi-messageconverter](https://github.com/fmidev/fmi-avi-messageconverter)
-  ([v6.2.0](${fmi-avi-messageconverter.version-url}))
+  ([v6.2.0](https://github.com/fmidev/fmi-avi-messageconverter/releases/tag/fmi-avi-messageconverter-6.2.0))
 * [fmi-avi-messageconverter-iwxxm](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm)
-  ([v4.2.0](${fmi-avi-messageconverter-iwxxm.version-url}))
+  ([v4.2.0](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm/releases/tag/fmi-avi-messageconverter-iwxxm-4.2.0))
 * [fmi-avi-messageconverter-tac](https://github.com/fmidev/fmi-avi-messageconverter-tac)
-  ([v5.2.0](${fmi-avi-messageconverter-tac.version-url}))
+  ([v5.2.0](https://github.com/fmidev/fmi-avi-messageconverter-tac/releases/tag/fmi-avi-messageconverter-tac-5.2.0))
 
 ## Using the BOM
 
