@@ -61,7 +61,7 @@
   <properties>
     <fmi-avi-messageconverter.version>7.0.0-beta3</fmi-avi-messageconverter.version>
     <fmi-avi-messageconverter-iwxxm.version>5.0.0-beta3</fmi-avi-messageconverter-iwxxm.version>
-    <fmi-avi-messageconverter-tac.version>6.0.0-beta4</fmi-avi-messageconverter-tac.version>
+    <fmi-avi-messageconverter-tac.version>6.0.0-beta5</fmi-avi-messageconverter-tac.version>
 
     <fmi-avi-messageconverter.release-url>
       https://github.com/fmidev/fmi-avi-messageconverter/releases/tag/fmi-avi-messageconverter-${fmi-avi-messageconverter.version}
