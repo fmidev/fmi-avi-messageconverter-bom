@@ -10,7 +10,7 @@
 
   <groupId>fi.fmi.avi.converter</groupId>
   <artifactId>fmi-avi-messageconverter-bom</artifactId>
-  <version>2.0.0-beta8-SNAPSHOT</version>
+  <version>3.1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>Aviation message converter - BOM</name>
@@ -60,7 +60,7 @@
 
   <properties>
     <fmi-avi-messageconverter.version>7.0.0-beta3</fmi-avi-messageconverter.version>
-    <fmi-avi-messageconverter-iwxxm.version>5.0.0-beta4</fmi-avi-messageconverter-iwxxm.version>
+    <fmi-avi-messageconverter-iwxxm.version>6.1.0-SNAPSHOT</fmi-avi-messageconverter-iwxxm.version>
     <fmi-avi-messageconverter-tac.version>6.0.0-beta6</fmi-avi-messageconverter-tac.version>
 
     <fmi-avi-messageconverter.release-url>
