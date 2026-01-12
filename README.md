@@ -45,7 +45,7 @@ Import this bom in the `<dependencyManagement>` section of your pom.xml:
     <dependency>
       <groupId>fi.fmi.avi.converter</groupId>
       <artifactId>fmi-avi-messageconverter-bom</artifactId>
-      <version>4.0.0</version>
+      <version>4.0.1-SNAPSHOT</version>
       <type>pom</type>
       <scope>import</scope>
     </dependency>
