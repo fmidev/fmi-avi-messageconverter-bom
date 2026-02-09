@@ -10,7 +10,7 @@
 
     <groupId>fi.fmi.avi.converter</groupId>
     <artifactId>fmi-avi-messageconverter-bom</artifactId>
-    <version>4.1.0</version>
+    <version>4.1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Aviation message converter - BOM</name>
@@ -55,7 +55,7 @@
         <connection>${scm-url}</connection>
         <developerConnection>${scm-url}</developerConnection>
         <url>${scm-web-url}</url>
-        <tag>fmi-avi-messageconverter-bom-4.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
