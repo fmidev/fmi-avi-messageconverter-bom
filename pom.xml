@@ -60,7 +60,7 @@
 
     <properties>
         <fmi-avi-messageconverter.version>8.3.0</fmi-avi-messageconverter.version>
-        <fmi-avi-messageconverter-iwxxm.version>6.3.0</fmi-avi-messageconverter-iwxxm.version>
+        <fmi-avi-messageconverter-iwxxm.version>6.3.1</fmi-avi-messageconverter-iwxxm.version>
         <fmi-avi-messageconverter-tac.version>8.1.0</fmi-avi-messageconverter-tac.version>
 
         <fmi-avi-messageconverter.release-url>
