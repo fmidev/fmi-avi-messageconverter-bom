@@ -10,11 +10,11 @@ The [Bill of Materials (BOM)](https://maven.apache.org/guides/introduction/intro
 for the _fmi-avi-messageconverter_ library artifacts providing compatible versions:
 
 * [fmi-avi-messageconverter](https://github.com/fmidev/fmi-avi-messageconverter)
-  ([v8.3.0](https://github.com/fmidev/fmi-avi-messageconverter/releases/tag/fmi-avi-messageconverter-8.3.0))
+  ([v8.3.1-SNAPSHOT](https://github.com/fmidev/fmi-avi-messageconverter/tree/main))
 * [fmi-avi-messageconverter-iwxxm](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm)
-  ([v6.3.1](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm/releases/tag/fmi-avi-messageconverter-iwxxm-6.3.1))
+  ([v6.3.2-SNAPSHOT](https://github.com/fmidev/fmi-avi-messageconverter-iwxxm/tree/main))
 * [fmi-avi-messageconverter-tac](https://github.com/fmidev/fmi-avi-messageconverter-tac)
-  ([v8.1.0](https://github.com/fmidev/fmi-avi-messageconverter-tac/releases/tag/fmi-avi-messageconverter-tac-8.1.0))
+  ([v8.1.1-SNAPSHOT](https://github.com/fmidev/fmi-avi-messageconverter-tac/tree/main))
 
 ## Using the BOM
 
